@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import '../styles/antd.less';
 import {
   DatePicker,
   Col,
